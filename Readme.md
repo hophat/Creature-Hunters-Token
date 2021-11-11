@@ -2,7 +2,6 @@
     
     [https://github.com/hophat/NFT-Marble-Token](https://github.com/hophat/NFT-Marble-Token)
     
-    Test:[https://testnet.bscscan.com/address/0xfcfca056a73fb7de02a5e60e2ff42d975161e7e5](https://www.notion.so/a73fb7de02a5e60e2ff42d975161e7e5)
     main:[https://bscscan.com/address/0xaa4e9e752913cee17f423038c54912b2165b7184](https://www.notion.so/2913cee17f423038c54912b2165b7184)
     
     - network : BEP-20
