@@ -11,16 +11,15 @@
     
     **gmail:** chtxdev@gmail.com 
 
-    **bsc accout:** chtxdev
+    **bsc account:** chtxdev
     
-    - Các thông tin publish token
+    - Info publish token
         - publish 10BNB :
-         định giá :1 CHTX = 0.042$  
-         add LQ:  151357 CHTX  = 6 357 $(10BNB).
-         1 CHTX = 0.0000669938.
+         list :1 CHTX = 0.042$  ~ 1 CHTX = 0.0000669938.
+          Liquidity:  151357 CHTX  = 6 357 $(10BNB).
+         
         
-    
-    - Thông tin update token Bscscan
+    - Infomation update token Bscscan
         - Trang web : creaturehunters.world
         - Email :[admin@creaturehunters.world](mailto:admin@creaturehunters.world)
         - **Project Description**: Creature Hunters is an online defense game based on the NFT of blockchain technology. You can defend enemies and earn rewards. It allows users to take on new challenges every day with various game modes, such as individual, auto-match, and event competition. Creature Hunters is a real-life game platform where anyone can easily participate with a self-sustaining NFT ecosystem.
