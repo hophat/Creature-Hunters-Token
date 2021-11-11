@@ -1,6 +1,5 @@
 - [ Creature Hunters Token Issue ]
     
-    [https://github.com/hophat/NFT-Marble-Token](https://github.com/hophat/NFT-Marble-Token)
     
     main:[https://bscscan.com/address/0xaa4e9e752913cee17f423038c54912b2165b7184](https://www.notion.so/2913cee17f423038c54912b2165b7184)
     
